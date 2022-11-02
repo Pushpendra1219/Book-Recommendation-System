@@ -1,6 +1,4 @@
-#Pushpendra Patidar
-#Indian Institute of Technology Goa
-#Major: Mechanical Engineering, Minor: Computer Science and Engineering
+# Pushpendra Patidar, Indian Institute of Technology Goa, Major: Mechanical Engineering, Minor: Computer Science and Engineering
 
 # Book-Recommendation-System
 Welcome to Book Recommender system 
